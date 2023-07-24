@@ -1,0 +1,29 @@
+[
+      {
+        "_id": "64bbe31f968789f59bc721c0",
+        "events": "<ReferenceError: place is not defined>",
+        "picture": "https://images.shiksha.ws/mediadata/images/articles/iStock_000007372117_Medium.jpg",
+        "Collage_name": "Grimes Sweet",
+        "research_History": "Minim nisi minim culpa pariatur enim do voluptate cupidatat pariatur.",
+        "sports": "Cricket",
+        "admission_dates": "November 15 - Descember 15"
+      },
+      {
+        "_id": "64bbe31f83dcc56003737d70",
+        "events": "<ReferenceError: place is not defined>",
+        "picture": "https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=886&q=80",
+        "Collage_name": "Vickie Wiley",
+        "research_History": "Minim nisi minim culpa pariatur enim do voluptate cupidatat pariatur.",
+        "sports": "Football",
+        "admission_dates": "November 15 - Descember 15"
+      },
+      {
+        "_id": "64bbe31f5d4f149f1db01da5",
+        "events": "<ReferenceError: place is not defined>",
+        "picture": "https://images.unsplash.com/flagged/photo-1554473675-d0904f3cbf38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "Collage_name": "Nadine Wolfe",
+        "research_History": "Minim nisi minim culpa pariatur enim do voluptate cupidatat pariatur.",
+        "sports": "BasketBall",
+        "admission_dates": "November 15 - Descember 15"
+      }
+    ]
